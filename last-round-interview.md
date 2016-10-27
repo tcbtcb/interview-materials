@@ -5,7 +5,7 @@ are also listed on
 https://about.gitlab.com/handbook/hiring/#interview-questions
 
 
-_Your full name_ 
+__Your full name__
 
 Thad Chapman Brown 
 
