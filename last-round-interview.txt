@@ -1,0 +1,61 @@
+GitLab - Last round interview Questions
+For your interviewer at GitLab to be able to be fully immersed in the conversation instead of distracted by taking notes, please fill out these interview questions ahead of time. These questions are also listed on https://about.gitlab.com/handbook/hiring/#interview-questions
+* Required
+Your full name *
+
+Your answer
+Your email address *
+
+Your answer
+Do you have any questions about the job, our organization, our strategy, or Sid personally? *
+Your answer
+
+Why did you apply to GitLab? *
+Your answer
+
+For each significant study and job: why did you select this one and why did you move on? Please give a short answer in 1 or 2 sentences. I will ask if I want to know more. You don't have to say what you did during the job, you already passed your technical interview. *
+Your answer
+
+What were you most satisfied with in your recent/current position? *
+Your answer
+
+What did you like least about your recent/current position? *
+Your answer
+
+Take each skill required for the job and do a STAR (https://en.wikipedia.org/wiki/Situation,_Task,_Action,_Result) for a couple of situations.
+Your answer
+
+What professional achievements are you most proud of? *
+Your answer
+
+Whose careers have you made better? *
+Your answer
+
+How do you keep up to date with developments in your profession? *
+Your answer
+
+If you don't get this job what will you do? *
+Your answer
+
+Are you interviewing anywhere else? *
+Your answer
+
+How can we change GitLab, the software product, to make it better? *
+Your answer
+
+What can we change in GitLab, the organization, to make it better? (for example the hiring process or the handbook) *
+Your answer
+
+What do you expect to achieve in your first month at GitLab? *
+Your answer
+
+Where do you want to be in three years from now? *
+Your answer
+
+How do you feel about working remote? *
+Your answer
+
+If you get hired when can you start? *
+
+Your answer
+What compensation would you feel comfortable with? *
