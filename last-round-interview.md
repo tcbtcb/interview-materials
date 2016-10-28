@@ -56,41 +56,64 @@ local meetups. This includes document stores (MongoDB), NodeJS, basic R
 language skills, and cloud computing. This is ongoing, as I believe that in
 this line of work one must always continue learning new things. The six years
 at Yale began as a part time job to help out with a necessary upgrade, and only
-ended many years later when I wanted to take on a new challenge. 
+ended many years later when I wanted to take on a new challenge. The second
+trip to South America was an attempt to work with a few locals to put together
+a co-working space with an eye to local individuals and small companies. When
+that didn't work out, and my visa was up, that was the end of that project. 
 
 **What were you** most satisfied with in your recent/current position? 
 
 Great users, top quality faculty and students, they really needed some help and
-I could do that for them, staff and users were responsive to questions and
+I could do that for them. Staff and users were responsive to questions and
 appreciated when problems were solved.
 
 **What did you** like least about your recent/current position? 
 
 The technology group was stretched a little thin, which meant some tools
 necessary to do the job had to be built from scratch. Relationships with
-vendors were sub-optimal. The time frame to finish an upgrade was short, which
-put a limit on what could be accomplished.
+vendors were sub-optimal. The time frame to finish an upgrade was prohibitively
+short, which put a limit on what could be accomplished.
 
 **Take each skill** required for the job and do a STAR
 (https://en.wikipedia.org/wiki/Situation, Task, Action,Result) for a couple of
 situations. 
+
+- A customer opens a ticket stating that some developers are being forced to
+  authenticate every time they push to their GitLab server, while other devs do
+  not. To help resolve the issue, email the customer explaining in quick terms
+  the difference between htts and git access to repos. Also explain that there
+  are options to store credentials, but that generally there is an inverse
+  relationship between convenience and security. Ask the customer to get back
+  with more information about the clients and follow up with additional
+  suggestions if needed. Include links to both git and GitLab documenation. 
+
+- A customer calls stating that their team would like to have video
+  presentation files under version control, but the unedited files can run over
+  a gigabyte. Tell the customer that large files can be used with GitLab and
+  include the documentation. Ask the customer either to check the config file
+  in /etc/gitlab or email it in to be sure that lfs support is set to true in
+  their config. Arrange for a call or conference to go over the lfs client with
+  the people managing the instance and/or some of the users. Check for any
+  possible problems with the rest of the support team, since lfs support is a
+  comparatively new feature in the application. Follow up after the call to be
+  sure the customer is working well with the new config and client.
 
 **What professional achievements** are you most proud of? 
 
 Two jump to the front. First, publishing two books about audio software with
 Peach Pit Press. Second, six years with the Yale Investments Office, being sure
 a world-class asset management group could do their jobs to the best of their
-ability, without thinking about the technology involved.
+ability, while not thinking about the technology involved.
 
 **Whose careers have** you made better? 
 
 I hope I made the careers of everyone at Yale Investments better. The tech
 director and I took them from when technology was important to when technology
-was an existential need. In South America I hope I drove home that technology
-is an endeavor where anyone, anywhere who has a great idea can succeed. The
-jury remains out on the success of that project, but I still hope for the best.
-I hope by participating in local open source communities I have helped others
-on their way. 
+was an existential need. In South America I hope I convinced some people that
+technology is an endeavor where anyone, anywhere who has a great idea can
+succeed. The jury remains out on the success of that project, but I still hope
+for the best. I hope by participating in local open source communities,
+wherever I was living, I helped others on their way. 
 
 **How do you** keep up to date with developments in your profession? 
 
@@ -124,12 +147,12 @@ looking. I'm sure I would have a better idea after some time spent listening to
 what customers think.
 
 **What can we** change in GitLab, the organization, to make it better? (for
-example3 the hiring process or the handbook) 
+example the hiring process or the handbook) 
 
 The handbook is detailed and clear, which I appreciate. I think the degree of
 openness from an engineering perspective, where so many issues are discussed
-publicly, is the way to do things. So on those core issues I would suggest more
-of the same. 
+publicly, is absolutely the best way to do things. So on those core issues I
+would suggest more of the same. 
 
 Since I opened an account on gitlab.com I have received only a few update
 emails. I think it difficult to have too many explanations, tutorials, and use
@@ -151,7 +174,7 @@ cases to spotlight how individuals and organizations use software.
 
 This last one, to me, is critical. A month at a new job can go awfully fast, so
 if the first three on that list are in good shape, then it will be possible to
-  map out a plan for where I can learn the most to help the rest of the team.
+map out a plan for where I can learn the most to help the rest of the team.
 
 **Where do you** want to be in three years from now? 
 
@@ -170,9 +193,7 @@ I enjoy working with people who come from other cultural and geographic
 backgrounds. I believe async communication and work will only become more
 common in the future. So I am happy to work in a distrubuted organization,
 where I can choose where to live and still work with a great team no matter
-where that i, where I can choose where to live and still work with a great team
-no matter where that is. My only concern is I'll have to remind myself to make
-sure I am out and about and active enough.
+where that is. 
 
 **If you get** hired when can you start? 
 
