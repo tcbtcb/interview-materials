@@ -5,15 +5,15 @@ are also listed on
 https://about.gitlab.com/handbook/hiring/#interview-questions
 
 
-__Your full name__
+**Your full name**
 
 Thad Chapman Brown 
 
-_Your email address_ 
+**Your email address** 
 
 meandmrwalker@gmail.com
 
-_Do you have_ any questions about the job, our organization, our strategy, or
+**Do you have** any questions about the job, our organization, our strategy, or
 Sid personally? 
 
 Most of my questions have been answered in the other interviews, but I would
@@ -26,7 +26,7 @@ like to hear Sid's opinion about the two main ones I have asked.
   have met have in the interview process have all been top notch. But is GitLab
   a place to work that Sid would call fun?
 
-_Why did you_ apply to GitLab? 
+**Why did you** apply to GitLab? 
 
 While working at a (fairly) short term job during 2016, I discovered that their
 sysadmin/dba group had no version control to speak of. I wanted to have
@@ -45,7 +45,7 @@ When I started looking for my next job, I decided to see if any of the
 companies that had written truly impressive software were hiring, and found
 that GitLab was looking for support engineers. 
 
-_For each significant_ study and job: why did you select this one and why did
+**For each significant** study and job: why did you select this one and why did
 you move on? Please give a short answer in 1 or 2 sentences. I will ask if I
 want to know more. You don't have to say what you did during the job, you
 already passed your technical interview. 
@@ -58,31 +58,31 @@ this line of work one must always continue learning new things. The six years
 at Yale began as a part time job to help out with a necessary upgrade, and only
 ended many years later when I wanted to take on a new challenge. 
 
-_What were you_ most satisfied with in your recent/current position? 
+**What were you** most satisfied with in your recent/current position? 
 
 Great users, top quality faculty and students, they really needed some help and
 I could do that for them, staff and users were responsive to questions and
 appreciated when problems were solved.
 
-_What did_ you_ like least about your recent/current position? 
+**What did you** like least about your recent/current position? 
 
 The technology group was stretched a little thin, which meant some tools
 necessary to do the job had to be built from scratch. Relationships with
 vendors were sub-optimal. The time frame to finish an upgrade was short, which
 put a limit on what could be accomplished.
 
-_Take each skill_ required for the job and do a STAR
-(https://en.wikipedia.org/wiki/Situation,_Task,_Action,_Result) for a couple of
+**Take each skill** required for the job and do a STAR
+(https://en.wikipedia.org/wiki/Situation, Task, Action,Result) for a couple of
 situations. 
 
-_What professional achievements_ are you most proud of? 
+**What professional achievements** are you most proud of? 
 
 Two jump to the front. First, publishing two books about audio software with
 Peach Pit Press. Second, six years with the Yale Investments Office, being sure
 a world-class asset management group could do their jobs to the best of their
 ability, without thinking about the technology involved.
 
-_Whose careers have_ you made better? 
+**Whose careers have** you made better? 
 
 I hope I made the careers of everyone at Yale Investments better. The tech
 director and I took them from when technology was important to when technology
@@ -92,23 +92,23 @@ jury remains out on the success of that project, but I still hope for the best.
 I hope by participating in local open source communities I have helped others
 on their way. 
 
-_How do you_ keep up to date with developments in your profession? 
+**How do you** keep up to date with developments in your profession? 
 
 I attend many meetups with technology groups, especially in data visualization,
 data science, and front end development. I'm subscribed to mailing lists and
 google news alerts about linux, free software, and web technologies. I try not
 to read too many blogs, but many of them are tech related. 
 
-_If you don_'t get this job what will you do? 
+**If you don't** get this job what will you do? 
 
 Continue to look for a group I can work with for the long term, that believes
 in open source software and has an international footprint.
 
-_Are you interviewing_ anywhere else? 
+**Are you interviewing** anywhere else? 
 
 Yes.
 
-_How can we_ change GitLab, the software product, to make it better? 
+**How can we** change GitLab, the software product, to make it better? 
 
 I cannot think of anything *I* have used yet that came up short. Longer term, I
 think adding the ability to spin up docker containers for testing and
@@ -123,7 +123,7 @@ quite pleasant, so most of these suggestions are a bit vague and forward
 looking. I'm sure I would have a better idea after some time spent listening to
 what customers think.
 
-_What can we_ change in GitLab, the organization, to make it better? (for
+**What can we** change in GitLab, the organization, to make it better? (for
 example3 the hiring process or the handbook) 
 
 The handbook is detailed and clear, which I appreciate. I think the degree of
@@ -135,7 +135,7 @@ Since I opened an account on gitlab.com I have received only a few update
 emails. I think it difficult to have too many explanations, tutorials, and use
 cases to spotlight how individuals and organizations use software. 
 
-_What do you_ expect to achieve in your first month at GitLab? 
+**What do you** expect to achieve in your first month at GitLab? 
 
 - The first priority will be getting familiar with how the team works,
   obviously the support team specifically, but also how devs, infrastructure,
@@ -153,7 +153,7 @@ This last one, to me, is critical. A month at a new job can go awfully fast, so
 if the first three on that list are in good shape, then it will be possible to
   map out a plan for where I can learn the most to help the rest of the team.
 
-_Where do you_ want to be in three years from now? 
+**Where do you** want to be in three years from now? 
 
 Professionally I hope to be working with a great group of people on software I
 like, with an emphasis on open sorce. Also I would like to have a better handle
@@ -164,7 +164,7 @@ source community where I am living, and helping non-profits and artists find
 ways to use technology. Both of those groups often need help but lack funds to
 purchase that help.
 
-_How do you_ feel about working remote? 
+**How do you** feel about working remote? 
 
 I enjoy working with people who come from other cultural and geographic
 backgrounds. I believe async communication and work will only become more
@@ -174,11 +174,11 @@ where that i, where I can choose where to live and still work with a great team
 no matter where that is. My only concern is I'll have to remind myself to make
 sure I am out and about and active enough.
 
-_If you get_ hired when can you start? 
+**If you get** hired when can you start? 
 
 As soon as possible. 
 
-_What compensation would_ you feel comfortable with? 
+**What compensation would** you feel comfortable with? 
 
 The mean for service engineer compensation, according to what I read, seems to
 be between 60k-65k. With my experience I think I should be at or above the
